@@ -46,5 +46,5 @@ Objective:
  ○ UsePython libraries like Dash, Plotly, or Streamlite to build the dashboard.
  ○ Integrate visualizations created using matplotlib and seaborn into the
  dashboard    
-   12- Some analysis by excel    
-   13 - Dashboard and report by power bi   
+ 12- Some analysis by excel    
+ 13 - Dashboard and report by power bi   
